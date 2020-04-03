@@ -16,7 +16,7 @@ int main()
 	const cv::Point2f pts1[] = {
 		cv::Point2f(150,150),
 		cv::Point2f(150,300),
-		cv::Point2f(3500,300),
+		cv::Point2f(350,300),
 		cv::Point2f(350,150),
 	};
 	const cv::Point2f pts2[] = {
